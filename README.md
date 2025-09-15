@@ -1,5 +1,4 @@
-# linux-essentials-for-devops
-Linux basics for DevOps: commands, scripts, file permissions, services, networking.
+
 # Linux Essentials for DevOps 🐧
 
 This repo contains Linux basics for DevOps engineers — commands, scripts, services, and security practices.
